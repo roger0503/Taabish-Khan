@@ -1,2 +1,0 @@
-# Taabish-Khan
-Python exercises
